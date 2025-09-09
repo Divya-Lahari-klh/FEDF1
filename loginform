@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head>
+    <title><h1> Registration Page</h1></title>
+    <body>
+        <label for="username">Useraname:</label>
+            <input type="text" id="usename" name="username" >
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password">
+
+
+    </body>
+</head>
